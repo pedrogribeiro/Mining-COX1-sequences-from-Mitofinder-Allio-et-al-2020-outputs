@@ -1,0 +1,1 @@
+# Mining-COX1-sequences-from-Mitofinder-Allio-et-al-2020-outputs
